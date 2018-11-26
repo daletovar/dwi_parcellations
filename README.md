@@ -12,4 +12,4 @@ Clustering:
   - Probtrackx will produce a .mat file, which we will use for clustering. These files are very large and transforming them into sparse matrices will take a long time to run.
   
 Data:
-  - This zipped folder contains the nifti files needed to run registration and probtrackx, a pickled sparse matrix holding the summed streamline count of 36 subjects, and 5 nifti files representing different kmeans clustering solutions.
+  - This folder contains the nifti files needed to run registration and probtrackx and 5 nifti files representing different kmeans clustering solutions.
